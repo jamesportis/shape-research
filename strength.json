@@ -1,0 +1,4377 @@
+[
+  {
+    "exerciseName": "Three-Quarter Sit-Up",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Ab Crunch Machine",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Ab Roller",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Advanced Kettlebell Windmill",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Air Bike",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Alternate Hammer Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Alternate Heel Touchers",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Alternate Incline Dumbbell Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Alternating Cable Shoulder Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Alternating Deltoid Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Alternating Floor Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Alternating Hang Clean",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Alternating Kettlebell Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Alternating Kettlebell Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Alternating Renegade Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Anti-Gravity Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Arnold Dumbbell Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Around The World Pull-Up",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Around The Worlds",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Assisted Chin-Up",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Back Flyes - With Bands",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Balance Board",
+    "targetMuscle": "Calves",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Ball Leg Curl",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Exercise Ball"
+  },
+  {
+    "exerciseName": "Band Assisted Pull-Up",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Band Hip Adductions",
+    "targetMuscle": "Adductors",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Band Pull Apart",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Band Skull Crusher",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Bar Throw And Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Barbell Ab Rollout",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Ab Rollout - On Knees",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Bench Press - Medium Grip",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Bench Press-Wide Grip",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Curls Lying Against An Incline",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Deadlift",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Deadlift Bent Row Complex",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Front Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Front-To-Back Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Full Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Guillotine Bench Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Hack Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Incline Bench Press Medium-Grip",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Incline Shoulder Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Lunge",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Rear Delt Row",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Reverse Lunge",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Rollout from Bench",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Seated Calf Raise",
+    "targetMuscle": "Calves",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Shoulder Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Shrug",
+    "targetMuscle": "Traps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Shrug Behind The Back",
+    "targetMuscle": "Traps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Side Bend",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Side Split Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Squat To A Bench",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Squat To A Box",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Barbell Step Ups",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Thruster",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Barbell Walking Lunge",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Battling Ropes",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Bear Crawl Shoulder Tap",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Bench Dips",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Bench Press - With Bands",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Bent Over Barbell Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Bent Over Dumbbell Rear Delt Raise With Head On Bench",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Bent Over Low-Pulley Side Lateral",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Bent Over One-Arm Long Bar Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Bent Over Two-Arm Long Bar Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Bent Over Two-Dumbbell Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Bent Over Two-Dumbbell Row With Palms In",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Bent Press",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Bent-Arm Barbell Pullover",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Bent-Arm Dumbbell Pullover",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Bent-Knee Hip Raise",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Biceps Curl To Shoulder Press",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Body Tricep Press",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Body Triceps Press Using Flat Bench",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Body-Up",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Bodyweight Flyes",
+    "targetMuscle": "Chest",
+    "ExerciseType": "E-Z Curl Bar"
+  },
+  {
+    "exerciseName": "Bodyweight Lunge",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Bodyweight Mid Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Bodyweight Reverse Lunge",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Bodyweight Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Bodyweight Walking Lunge",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "None"
+  },
+  {
+    "exerciseName": "Bosu Ball Cable Crunch With Side Bends",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Bosu Ball Crunch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Exercise Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Push-Up",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Exercise Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Exercise Ball"
+  },
+  {
+    "exerciseName": "Bottoms Up",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Bottoms-Up Clean From The Hang Position",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Box Squat with Chains",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Bradord-Rocky Presses",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Breakdancer",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Burpee To Medicine Ball Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Medicine Ball"
+  },
+  {
+    "exerciseName": "Butt Lift - Bridge",
+    "targetMuscle": "Glutes",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Butt-Ups",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Butterfly",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Cable Chest Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Crossover",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Crunch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Deadlifts",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Hammer Curls - Rope Attachment",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Hip Adduction",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Incline Pushdown",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Incline Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Internal Rotation",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Iron Cross",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Judo Flip",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Lying Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable One Arm Tricep Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Preacher Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Rear Delt Fly",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Reverse Crunch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Rope Overhead Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Rope Rear-Delt Rows",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Russian Twists",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Seated Crunch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Seated Lateral Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Shoulder Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Shrugs",
+    "targetMuscle": "Traps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Cable Wrist Curl",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Calf Press",
+    "targetMuscle": "Calves",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Calf Press On The Leg Press Machine",
+    "targetMuscle": "Calves",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Calf Raise On A Dumbbell",
+    "targetMuscle": "Calves",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Calf Raises - With Bands",
+    "targetMuscle": "Calves",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Calf-Machine Shoulder Shrug",
+    "targetMuscle": "Traps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Car Drivers",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Chair Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Chin-Up",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Clam",
+    "targetMuscle": "Abductors",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Clean and Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Clock Push-Up",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Close-Grip Barbell Bench Press",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Close-Grip Dumbbell Press",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Close-Grip EZ Bar Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Close-Grip EZ-Bar Curl with Band",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "E-Z Curl Bar"
+  },
+  {
+    "exerciseName": "Close-Grip EZ-Bar Press",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "E-Z Curl Bar"
+  },
+  {
+    "exerciseName": "Close-Grip Front Lat Pulldown",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Close-Grip Push-Up off of a Dumbbell",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Close-Grip Standing Barbell Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Close-Hands Push-Up",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Close-Stance Dumbbell Front Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Cobra Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Cocoons",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Concentration Curls",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Crab Toe Touch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Cross Body Hammer Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Cross Crunch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Cross Over - With Bands",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Cross-Body Crunch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Crunch - Hands Overhead",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Crunch - Legs On Exercise Ball",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Crunches",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Cuban Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dead Bug",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Decline Barbell Bench Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Decline Close-Grip Bench To Skull Crusher",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Decline Crunch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Decline Dumbbell Bench Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Decline Dumbbell Flyes",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Decline Dumbbell Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Decline EZ Bar Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Decline Oblique Crunch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Decline Push-Up",
+    "targetMuscle": "Chest",
+    "ExerciseType": "None"
+  },
+  {
+    "exerciseName": "Decline Reverse Crunch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Decline Smith Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Diamond Push-Up",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Dip Machine",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Dips - Chest Version",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Dips - Triceps Version",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Dive Bomber Push-Up",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Donkey Calf Raises",
+    "targetMuscle": "Calves",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Double Kettlebell Alternating Hang Clean",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Double Kettlebell Jerk",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Double Kettlebell Push Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Double Kettlebell Snatch",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Double Kettlebell Windmill",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Downward Facing Balance",
+    "targetMuscle": "Glutes",
+    "ExerciseType": "Exercise Ball"
+  },
+  {
+    "exerciseName": "Drag Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Dumbbell Alternate Bicep Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Alternating Lunge",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Bench Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Bench Press with Neutral Grip",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Bicep Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Clean",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Clean And Jerk",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Flyes",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Front Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Goblet Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Incline Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Incline Shoulder Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Lunge and Curl",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Lunges",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Lying One-Arm Rear Lateral Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Lying Pronation",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Lying Rear Lateral Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Lying Supination",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell One-Arm Shoulder Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell One-Arm Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell One-Arm Upright Row",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Overhead Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Pistol Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Prone Incline Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Rear Delt Row",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Rear Lunge",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Scaption",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Seated One-Leg Calf Raise",
+    "targetMuscle": "Calves",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Shoulder Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Shrug",
+    "targetMuscle": "Traps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Side Bend",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Squat Snatch",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Squat To A Bench",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Squat To Shoulder Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Step Ups",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Tricep Extension -Pronated Grip",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell V-Sit Cross Jab",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Dumbbell Walking Lunge",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Elbow to Knee",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Elevated Back Lunge",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Elevated Cable Rows",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Exercise Ball Crunch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Exercise Ball"
+  },
+  {
+    "exerciseName": "Exercise Ball Pull-In",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Exercise Ball"
+  },
+  {
+    "exerciseName": "Extended Range One-Arm Kettlebell Floor Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "External Rotation",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "External Rotation with Band",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "External Rotation with Cable",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "EZ-Bar Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "E-Z Curl Bar"
+  },
+  {
+    "exerciseName": "EZ-Bar Skullcrusher",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "E-Z Curl Bar"
+  },
+  {
+    "exerciseName": "Face Pull",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Feet-Elevated TRX Push-Up",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Finger Curls",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Fire Hydrant",
+    "targetMuscle": "Abductors",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Flat Bench Cable Flyes",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Flat Bench Leg Pull-In",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Flat Bench Lying Leg Raise",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Flexor Incline Dumbbell Curls",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Floor Glute-Ham Raise",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "None"
+  },
+  {
+    "exerciseName": "Flutter Kicks",
+    "targetMuscle": "Glutes",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Forward Band Walk",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Freehand Jump Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Frog Sit-Ups",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Front Barbell Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Front Barbell Squat To A Bench",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Front Cable Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Front Dumbbell Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Front Dumbbell Raise Using Towel",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Front Incline Dumbbell Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Front Plate Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Front Raise And Pullover",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Front Squat - Bodybuilder",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Front Squat - Clean Grip",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Front Squat Push Press",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Front Squats With Two Kettlebells",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Front Two-Dumbbell Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Front-To-Back Squat With Belt",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Full Moon",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Full Range-Of-Motion Lat Pulldown",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Gironda Sternum Chins",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Glute Bridge Hamstring Walkout",
+    "targetMuscle": "Glutes",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Glute Kickback",
+    "targetMuscle": "Glutes",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Goblet Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Gorilla Chin Crunch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Hack Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Half-kneeling Dumbbell Shoulder Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Hammer Curls",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Hammer Grip Incline DB Bench Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Hammer Plate Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Hand Release Push-Up",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Hand Stand Push-Up",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Handstand Push-Ups",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Hanging Leg Raise",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Hanging Oblique Knee Raise",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Hanging Pike",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "High Cable Curls",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Hip Extension with Bands",
+    "targetMuscle": "Glutes",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Hip Flexion with Band",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Hyperextensions - Back Extensions",
+    "targetMuscle": "Lower Back",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Hyperextensions With No Hyperextension Bench",
+    "targetMuscle": "Lower Back",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Incline Barbell Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Incline Bench Pull",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Incline Cable Chest Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Incline Cable Flye",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Incline Dumbbell Bench With Palms Facing In",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Incline Dumbbell Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Incline Dumbbell Flyes",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Incline Dumbbell Flyes - With A Twist",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Incline Dumbbell Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Incline Dumbbell Press Reverse-Grip",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Incline Hammer Curls",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Incline Inner Biceps Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Incline Push-Up",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Incline Push-Up Close-Grip",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Incline Push-Up Medium",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Incline Push-Up Reverse Grip",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Incline Push-Up Wide",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Internal Rotation with Band",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Inverted Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "None"
+  },
+  {
+    "exerciseName": "Inverted Row with Straps",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Iron Cross",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Isometric Neck Exercise - Front And Back",
+    "targetMuscle": "Neck",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Isometric Neck Exercise - Sides",
+    "targetMuscle": "Neck",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Isometric Wipers",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Jackknife Sit-Up",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Janda Sit-Up",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Jefferson Squats",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "JM Press",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "JM Press With Bands",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Kettlebell 3-Point Extension",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Kettlebell Arnold Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Kettlebell Curtsy Lunge",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Kettlebell Dead Clean",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Kettlebell Figure 8",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Kettlebell Hang Clean",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Kettlebell One-Legged Deadlift",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Kettlebell Pass Between The Legs",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Kettlebell Pirate Ships",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Kettlebell Pistol Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Kettlebell Seated Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Kettlebell Seesaw Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Kettlebell Side Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Kettlebell Squat Clean",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Kettlebell Sumo High Pull",
+    "targetMuscle": "Traps",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Kettlebell Sumo Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Kettlebell Thruster",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Kettlebell Thruster Progression",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Kettlebell Turkish Get-Up - Lunge style",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Kettlebell Turkish Get-Up - Squat style",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Kettlebell Windmill",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Kipping Muscle Up",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Knee-Hip Raise On Parallel Bars",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Kneeling Cable Crunch With Alternating Oblique Twists",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Kneeling Cable Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Kneeling High Pulley Row",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Kneeling Single-Arm High Pulley Row",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "L-Sit Chin-Up",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Landmine 180's",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Landmine Linear Jammer",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Lateral Band Walk",
+    "targetMuscle": "Abductors",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Lateral Raise - With Bands",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Leg Extensions",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Leg Lift",
+    "targetMuscle": "Glutes",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Leg Press",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Leg Pull-In",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Leg-Over Floor Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Leverage Chest Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Leverage Deadlift",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Leverage Decline Chest Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Leverage High Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Leverage Incline Chest Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Leverage Iso Row",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Leverage Shoulder Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Leverage Shrug",
+    "targetMuscle": "Traps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "London Bridges",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Low Cable Crossover",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Low Cable Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Low Pulley Row To Neck",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Lunge Pass Through",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Lunge Sprint",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Lying Cable Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Lying Cambered Barbell Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Lying Close-Grip Bar Curl On High Pulley",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Lying Close-Grip Barbell Triceps Extension Behind The Head",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Lying Close-Grip Barbell Triceps Press To Chin",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "E-Z Curl Bar"
+  },
+  {
+    "exerciseName": "Lying Dumbbell Tricep Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Lying Face Down Plate Neck Resistance",
+    "targetMuscle": "Neck",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Lying Face Up Plate Neck Resistance",
+    "targetMuscle": "Neck",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Lying High Bench Barbell Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Lying Leg Curls",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Lying Machine Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Lying One-Arm Lateral Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Lying Rear Delt Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Lying Supine Dumbbell Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Lying T-Bar Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Lying Triceps Press",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "E-Z Curl Bar"
+  },
+  {
+    "exerciseName": "Machine Bench Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Machine Bicep Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Machine Lateral Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Machine Preacher Curls",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Machine Shoulder - Military Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Machine Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Machine Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Machine-Assisted Pull-Up",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Man Maker",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Medicine Ball Rotational Throw",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Medicine Ball"
+  },
+  {
+    "exerciseName": "Medicine-Ball Push-Up",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Medicine Ball"
+  },
+  {
+    "exerciseName": "Middle Back Shrug",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Mixed Grip Chin",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Monster Walk",
+    "targetMuscle": "Abductors",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Muscle Up",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Narrow Stance Hack Squats",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Narrow Stance Leg Press",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Narrow Stance Squats",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Natural Glute Ham Raise",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Neck Bridge Prone",
+    "targetMuscle": "Neck",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Neck Bridge Supine",
+    "targetMuscle": "Glutes",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Neck Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Negative Pull-Up",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Neutral-Grip Pull Ups",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Oblique Cable Crunch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Oblique Crunches",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Oblique Crunches - On The Floor",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "One Arm Chin-Up",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "One Arm Dumbbell Bench Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "One Arm Dumbbell Preacher Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "One Arm Floor Press",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "One Arm Lat Pulldown",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "One Arm Pronated Dumbbell Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "One Arm Supinated Dumbbell Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "One Leg Barbell Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "One-Arm Dumbbell Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "One-Arm Flat Bench Dumbbell Flye",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "One-Arm High-Pulley Cable Side Bends",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "One-Arm Incline Lateral Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "One-Arm Kettlebell Clean",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "One-Arm Kettlebell Clean and Jerk",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "One-Arm Kettlebell Floor Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "One-Arm Kettlebell Jerk",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "One-Arm Kettlebell Military Press To The Side",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "One-Arm Kettlebell Para Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "One-Arm Kettlebell Push Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "One-Arm Kettlebell Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "One-Arm Kettlebell Snatch",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "One-Arm Kettlebell Split Jerk",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "One-Arm Kettlebell Split Snatch",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "One-Arm Kettlebell Swings",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "One-Arm Long Bar Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "One-Arm Medicine Ball Slam",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Medicine Ball"
+  },
+  {
+    "exerciseName": "One-Arm Open Palm Kettlebell Clean",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "One-Arm Overhead Kettlebell Squats",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "One-Arm Plank Dumbbell Biceps Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "One-Arm Push-Up",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "One-Arm Side Deadlift",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "One-Arm Side Laterals",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "One-Legged Cable Kickback",
+    "targetMuscle": "Glutes",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Open Palm Kettlebell Clean",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Otis-Up",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Overhead Cable Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Pallof Press",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Pallof Press With Rotation",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Palms-Down Dumbbell Wrist Curl Over A Bench",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Palms-Down Wrist Curl Over A Bench",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Palms-Up Barbell Wrist Curl Over A Bench",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Palms-Up Dumbbell Wrist Curl Over A Bench",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Parallel Bar Dip",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Partner 3-Touch Motion Russian Twist",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Medicine Ball"
+  },
+  {
+    "exerciseName": "Partner Facing Feet-Elevated Side Plank With Band Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Partner Facing Plank With Band Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Partner Facing Planks With Alternating High-Five",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Partner Facing Side Plank With Band Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Partner Farmer's Walk Competition",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Partner Flat-Bench Back Extension",
+    "targetMuscle": "Lower Back",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Partner Flat-Bench Back Extension With Hold",
+    "targetMuscle": "Lower Back",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Partner Hanging Knee Raise With Manual Resistance",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Partner Hanging Knee Raise With Throw Down",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Partner Lying Leg Raise With Lateral Throw Down",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Partner Lying Leg Raise With Throw Down",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Partner Side-To-Side Russian Twist & Pass",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Medicine Ball"
+  },
+  {
+    "exerciseName": "Partner Sit-Up With High-Five",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Partner Suitcase Carry Competition",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Partner Supermans With Alternating High-Five",
+    "targetMuscle": "Lower Back",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Partner Target Sit-Up",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Pendlay Rown",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Physioball Hip Bridge",
+    "targetMuscle": "Glutes",
+    "ExerciseType": "Exercise Ball"
+  },
+  {
+    "exerciseName": "Pistol Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Plank",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Plate Pinch",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Plate Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Plate Shoulder Circle Big To Small Rotation",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Plate Twist",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Platform Hamstring Slides",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Plie Dumbbell Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Plyo Kettlebell Pushups",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Power Clean",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Power Partials",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Preacher Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Preacher Hammer Dumbbell Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Press Sit-Up",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Prone Manual Hamstring",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "None"
+  },
+  {
+    "exerciseName": "Pull Through",
+    "targetMuscle": "Glutes",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Pullups",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Push Up to Side Plank",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Push-Up Wide",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Push-Ups - Close Triceps Position",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Push-Ups With Feet Elevated",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Push-Ups With Feet On An Exercise Ball",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Exercise Ball"
+  },
+  {
+    "exerciseName": "Pushups",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Pushups - Close and Wide Hand Positions",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Reverse Barbell Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Reverse Barbell Preacher Curls",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "E-Z Curl Bar"
+  },
+  {
+    "exerciseName": "Reverse Cable Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Reverse Crunch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Reverse Flyes",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Reverse Flyes With External Rotation",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Reverse Grip Bent-Over Rows",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Reverse Grip Triceps Pushdown",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Reverse Hyperextension",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Reverse Machine Flyes",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Reverse Plate Curls",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Reverse Triceps Bench Press",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Ring Dips",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Rockers - Pullover To Press - Straight Bar",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Rocking Standing Calf Raise",
+    "targetMuscle": "Calves",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Rocky Pull-Ups-Pulldowns",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Romanian Deadlift",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Romanian Deadlift With Dumbbells",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Romanian Deadlift with Kettlebell",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Rope Climb",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Rope Crunch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Rope Straight-Arm Pulldown",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Russian Bar Dip",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Russian Twist",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Scapular Pull-Up",
+    "targetMuscle": "Traps",
+    "ExerciseType": "None"
+  },
+  {
+    "exerciseName": "Seated Back Extension",
+    "targetMuscle": "Lower Back",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Seated Band Hamstring Curl",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Seated Barbell Military Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Seated Barbell Twist",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Seated Bent-Over One-Arm Dumbbell Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Seated Bent-Over Rear Delt Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Seated Bent-Over Two-Arm Dumbbell Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Seated Cable Rows",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Seated Cable Shoulder Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Seated Calf Raise",
+    "targetMuscle": "Calves",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Seated Close-Grip Concentration Barbell Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Seated Dumbbell Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Seated Dumbbell Inner Biceps Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Seated Dumbbell Palms-Down Wrist Curl",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Seated Dumbbell Palms-Up Wrist Curl",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Seated Dumbbell Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Seated Flat Bench Leg Pull-In",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Seated Head Harness Neck Resistance",
+    "targetMuscle": "Neck",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Seated Leg Curl",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Seated Leg Press",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Seated Leg Tucks",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Seated One-arm Cable Pulley Rows",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Seated One-Arm Dumbbell Palms-Down Wrist Curl",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Seated One-Arm Dumbbell Palms-Up Wrist Curl",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Seated Palm-Up Barbell Wrist Curl",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Seated Palms-Down Barbell Wrist Curl",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Seated Scissor Kick",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Seated Side Lateral Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Seated Straight-Bar Curl Superset",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Seated Triceps Press",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Seated Two-Arm Palms-Up Low-Pulley Wrist Curl",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "See-Saw Press - Alternating Side Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Shotgun Row",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Shoulder Press - With Bands",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Shoulder Tap",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Side Bridge",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Side Jackknife",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Side Lateral Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Side Laterals to Front Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Side Lunge",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Side Lunge Touching Heel",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Side To Side Chins",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Side To Side Push-Up",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Single Arm Overhead Kettlebell Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Single Dumbbell Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Single Leg Deadlift",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Single Leg Glute Bridge",
+    "targetMuscle": "Glutes",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Single-Arm Cable Crossover",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Single-Arm Dumbbell Overhead Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Single-Arm Landmine Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Single-Arm Linear Jammer",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Single-Arm Push-Up",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Single-Leg High Box Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Single-Leg Leg Extension",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Single-Leg Press",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Single-Leg Skater Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Single-Leg Squat To Box",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Sit-Up",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Skin The Cat To Push-Up",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Sled Overhead Backward Walk",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Sled Overhead Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Sled Reverse Flye",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Sled Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Smith Incline Shoulder Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Smith Machine Behind the Back Shrug",
+    "targetMuscle": "Traps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Smith Machine Bench Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Smith Machine Bent Over Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Smith Machine Calf Raise",
+    "targetMuscle": "Calves",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Smith Machine Close-Grip Bench Press",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Smith Machine Decline Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Smith Machine Hang Power Clean",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Smith Machine Hip Raise",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Smith Machine Incline Bench Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Smith Machine Leg Press",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Smith Machine One-Arm Upright Row",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Smith Machine Overhead Shoulder Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Smith Machine Pistol Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Smith Machine Reverse Calf Raises",
+    "targetMuscle": "Calves",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Smith Machine Shrug",
+    "targetMuscle": "Traps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Smith Machine Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Smith Machine Stiff-Legged Deadlift",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Smith Machine Upright Row",
+    "targetMuscle": "Traps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Smith Single-Leg Split Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Snatch Pull",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Snatch-Grip Behind-The-Neck Overhead Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Speed Band Overhead Triceps",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Speed Squats",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Spell Caster",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Spider Crawl",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Spider Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "E-Z Curl Bar"
+  },
+  {
+    "exerciseName": "Split Squat with Dumbbells",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Split Squat With Kettlebells",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Squat Jerk",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Squat with Plate Movers",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Squats - With Bands",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "Stability Ball Pike With Knee Tuck",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Exercise Ball"
+  },
+  {
+    "exerciseName": "Staggered Push-Up",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Standing Alternating Dumbbell Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Standing Barbell Calf Raise",
+    "targetMuscle": "Calves",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Standing Barbell Press Behind Neck",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Standing Bent-Over One-Arm Dumbbell Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Standing Bent-Over Two-Arm Dumbbell Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Standing Biceps Cable Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Standing Bradford Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Standing Cable Chest Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Standing Cable Lift",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Standing Cable Wood Chop",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Standing Calf Raises",
+    "targetMuscle": "Calves",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Standing Concentration Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Standing Dumbbell Calf Raise",
+    "targetMuscle": "Calves",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Standing Dumbbell Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Standing Dumbbell Reverse Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Standing Dumbbell Straight-Arm Front Delt Raise Above Head",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Standing Dumbbell Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Standing Dumbbell Upright Row",
+    "targetMuscle": "Traps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Standing Front Barbell Raise Over Head",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Standing Inner-Biceps Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Standing Leg Curl",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Standing Low-Pulley Deltoid Raise",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Standing Low-Pulley One-Arm Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Standing Military Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Standing Olympic Plate Hand Squeeze",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Standing One-Arm Cable Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Standing One-Arm Dumbbell Curl Over Incline Bench",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Standing One-Arm Dumbbell Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Standing Overhead Barbell Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Standing Palm-In One-Arm Dumbbell Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Standing Palms-In Dumbbell Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Standing Palms-Up Barbell Behind The Back Wrist Curl",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Standing Rope Crunch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Standing Towel Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Step-up with Knee Raise",
+    "targetMuscle": "Glutes",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Stiff Leg Barbell Good Morning",
+    "targetMuscle": "Lower Back",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Stiff-Legged Barbell Deadlift",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Stiff-Legged Deadlift",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Stiff-Legged Dumbbell Deadlift",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Straight Bar Bench Mid Rows",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Straight Raises on Incline Bench",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Straight-Arm Dumbbell Pullover",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Straight-Arm Pulldown",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Straight-Legged Hip Raise",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Suitcase Crunch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Suitcase Dumbbell Carry",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Suspended Back Fly",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Suspended Chest Fly",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Suspended Crunch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Suspended Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Suspended Fallout",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Suspended Hip Thrust",
+    "targetMuscle": "Glutes",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Suspended Leg Curl",
+    "targetMuscle": "Hamstrings",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Suspended Push-Up",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Suspended Push-Up",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Suspended Reverse Crunch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Suspended Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Suspended Split Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Suspended Triceps Press",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Svend Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "T-Bar Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "T-Bar Row with Handle",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Tate Press",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Thigh Abductor",
+    "targetMuscle": "Abductors",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Thigh Adductor",
+    "targetMuscle": "Adductors",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Thigh Killa",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Tiger-Bend Push-Up",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Trap Bar Deadlift",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Tricep Dumbbell Kickback",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Triceps Overhead Extension with Rope",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Triceps Plank Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Triceps Pushdown",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Triceps Pushdown - Rope Attachment",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Triceps Pushdown - V-Bar Attachment",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Tuck Crunch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Two-Arm Dumbbell Preacher Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Two-Arm Kettlebell Clean",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Two-Arm Kettlebell Jerk",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Two-Arm Kettlebell Military Press",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Two-Arm Kettlebell Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Kettlebells"
+  },
+  {
+    "exerciseName": "Typewriter Push-Up",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Underhand Cable Pulldowns",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Upright Barbell Row",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Upright Cable Row",
+    "targetMuscle": "Traps",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Upright Row - With Bands",
+    "targetMuscle": "Traps",
+    "ExerciseType": "Bands"
+  },
+  {
+    "exerciseName": "V-Bar Pulldown",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "V-Bar Pullup",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "V-Sit Dumbbell Triceps Extension",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "V-Sit Lying Down Ball Throw And Catch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Medicine Ball"
+  },
+  {
+    "exerciseName": "Waiter's Carry",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Walking Lunge With Overhead Weight",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Wall Shoulder Tap",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Wall Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Wall Walk",
+    "targetMuscle": "Shoulders",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Weighted Ball Hyperextension",
+    "targetMuscle": "Lower Back",
+    "ExerciseType": "Exercise Ball"
+  },
+  {
+    "exerciseName": "Weighted Ball Side Bend",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Exercise Ball"
+  },
+  {
+    "exerciseName": "Weighted Bench Dip",
+    "targetMuscle": "Triceps",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Weighted Crunches",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Medicine Ball"
+  },
+  {
+    "exerciseName": "Weighted Jump Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Weighted Pull Ups",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Weighted Push-Up",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Weighted Push-Up",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Weighted Sissy Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Weighted Sit-Ups - With Bands",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Weighted Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Weighted Suitcase Crunch",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Medicine Ball"
+  },
+  {
+    "exerciseName": "Wide-Grip Barbell Bench Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Wide-Grip Decline Barbell Bench Press",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Wide-Grip Decline Barbell Pullover",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Wide-Grip Lat Pulldown",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Wide-Grip Pull-Up",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Wide-Grip Pulldown Behind The Neck",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Cable"
+  },
+  {
+    "exerciseName": "Wide-Grip Rear Pull-Up",
+    "targetMuscle": "Lats",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Wide-Grip Standing Barbell Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Wide-Hands Push-Up",
+    "targetMuscle": "Chest",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Wide-Stance Barbell Squat",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Wide-Stance Leg Press",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Machine"
+  },
+  {
+    "exerciseName": "Wind Sprints",
+    "targetMuscle": "Abdominals",
+    "ExerciseType": "Body Only"
+  },
+  {
+    "exerciseName": "Wrist Roller",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Other"
+  },
+  {
+    "exerciseName": "Wrist Rotations with Straight Bar",
+    "targetMuscle": "Forearms",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Yates Row",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Yates Row Reverse Grip",
+    "targetMuscle": "Middle Back",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Zercher Squats",
+    "targetMuscle": "Quadriceps",
+    "ExerciseType": "Barbell"
+  },
+  {
+    "exerciseName": "Zottman Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "Zottman Preacher Curl",
+    "targetMuscle": "Biceps",
+    "ExerciseType": "Dumbbell"
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  },
+  {
+    "exerciseName": "",
+    "targetMuscle": "",
+    "ExerciseType": ""
+  }
+]
